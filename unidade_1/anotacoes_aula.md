@@ -95,7 +95,9 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
 - Exemplo, na Computação, uma representação gráfica: Diagrama de Estados
   - Fluxograma de uma rotina condicional simples
+  
 ![Diagrama de estados de uma rotina condicional simples](imgs/AA_Exemplo_1_Condicional_Simples.png "Diagrama de estados de uma rotina condicional simples")
+
   - Fluxograma de uma rotina para ordenar três valores
 ![Diagrama de estados de uma rotina para ordenar três valores](imgs/AA_Exemplo_99_ordenarTresValores.png "Diagrama de estados de uma rotina para ordenar três valores")
 
