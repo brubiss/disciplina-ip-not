@@ -1,9 +1,5 @@
 # Algumas anotações das aulas
 
-## 25/02/21
-
-# Aula 01
-
 ## Apresentação do AVA3
 
 ### Disciplina
