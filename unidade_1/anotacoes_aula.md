@@ -79,7 +79,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 - praticar, praticar, ... praticar ..
 - aprender com problemas já resolvidos
 - resolveu, se der tempo, não poderia resolver da  melhor forma
-- não desista, nunca, já mais ... desistiu, volta a insistir
+- não desista, nunca, jamais ... desistiu, volte a insistir
 
     ![Nunca DEsista](imgs/AA_NuncaDesista.png "Nunca desista. Sapo resistindo bravamente para não ser engolido pela cegonha")
 
@@ -94,9 +94,9 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 ![Expressões matemáticas](imgs/AA_Expressoes.png "Expressões matemáticas")
 
 - Exemplo, na Computação, uma representação gráfica: Diagrama de Estados
-  - Diagrama de estados de uma rotina condicional simples
+  - Fluxograma de uma rotina condicional simples
 ![Diagrama de estados de uma rotina condicional simples](imgs/AA_Exemplo_1_Condicional_Simples.png "Diagrama de estados de uma rotina condicional simples")
-  - Diagrama de estados de uma rotina para ordenar três valores
+  - Fluxograma de uma rotina para ordenar três valores
 ![Diagrama de estados de uma rotina para ordenar três valores](imgs/AA_Exemplo_99_ordenarTresValores.png "Diagrama de estados de uma rotina para ordenar três valores")
 
 ## Como fica na prática
@@ -118,11 +118,15 @@ ATENÇÃO: lembrem de irem instalando o "Ambiente de Desenvolvimento Prático" .
 #### Enunciado A
 As vezes o enunciado pode ter "gorduras" ...
 
-    Era uma vez, uma pessoa que estava na praia. Esta pessoa conhecia um professor, e este professor tinha um problema para resolver. O seu problema era que ele tinha que considerar uma situação que ele poderia ter 3 notas de um aluno, a assim como poderia fazer para calcular a média deste aluno.
+    Era uma vez, uma pessoa que estava na praia. 
+    Esta pessoa conhecia um professor e este professor tinha um problema para resolver. 
+    O seu problema era que ele tinha que considerar uma situação que ele poderia ter 3 
+    notas de um aluno e com elas poderia calcular a média deste aluno.
 
 As vezes pode vir descrita de uma forma mais resumida
 
-    Um professor deseja calcular a média de um aluno. O professor tem o nome e as 3 notas do aluno e a média deve ser calculada de forma aritmética.​
+    Um professor deseja calcular a média de um aluno. O professor tem o nome
+    e as 3 notas do aluno e a média deve ser calculada de forma aritmética.​
 
 Ou ainda um enunciado "magrinho", mas as vezes se tem situações com falta de informações que não permitem solucionar o problema ... no caso, quantas notas para calcular a média?
 
@@ -131,7 +135,7 @@ Ou ainda um enunciado "magrinho", mas as vezes se tem situações com falta de i
 Então vamos para primeira etapa:
 - entender o problema​: Se pergunte, você consegue resolver este problema sem o uso do computador? Caso não consiga, bem provável é porque você não entendeu o enunciado ou falta informações, conhecimento, de como resolver o problema.
 
-Uma de ajudar a entender o problema e extrair do enunciado:
+Uma forma de ajudar a entender o problema é extrair do enunciado:
   - as entradas
   - as saídas
   - e definir os processos
@@ -173,10 +177,11 @@ E por fim, e muito importante
 
 Mais um problema a ser resolvido ...
 
-    Modele a solução de um problema para calcular a área de uma sala retangular. Considere que as medida estão expressas em metros.
+    Modele a solução de um problema para calcular a área de uma sala retangular. 
+    Considere que as medidas estão expressas em metros.
 
 Então vamos para primeira etapa:
-- entender o problema​: faça o calculo na "mão". Use os valores de testes (abaixo) para verificar se seu calculo está certo.
+- entender o problema​: faça o cálculo na "mão". Use os valores de testes (abaixo) para verificar se seu calculo está certo.
 
 **Então tente separar em:**
 
