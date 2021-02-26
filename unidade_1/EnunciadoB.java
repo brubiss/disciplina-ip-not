@@ -3,7 +3,7 @@ public class EnunciadoB {
 
     // Entrada
     int largura = 3; 
-    int altura = 90;
+    int altura = 7;
 
     //  Processo
     int area = largura * altura;

@@ -93,7 +93,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
 ![Expressões matemáticas](imgs/AA_Expressoes.png "Expressões matemáticas")
 
-- Exemplo, na Computação, uma representação gráfica: Diagrama de Estados
+- Exemplo, na Computação, uma representação gráfica: 
   - Fluxograma de uma rotina condicional simples
   
 ![Diagrama de estados de uma rotina condicional simples](imgs/AA_Exemplo_1_Condicional_Simples.png "Diagrama de estados de uma rotina condicional simples")
@@ -146,19 +146,22 @@ Uma forma de ajudar a entender o problema é extrair do enunciado:
 
 __ "Enrolação" __ 
 
-    |
+    Um professor deseja 
+    O professor tem o nome
 
-__ Entrada __
+__ Entrada __: ter as 3 notas
 
-    |
+    Nota1 = 7
+    Nota2 = 8
+    Nota3 = 9
 
- __ Processo __ 
+ __ Processo __: Calcular a média
+     
+    média = (nota1 + nota2 + nota3) / 3
 
-    |
+ __ Saída __: escrever a média
 
- __ Saída __ 
-
-    |
+    escrever(média)
 
 
 Bom, depois destas etapas vamos para:
@@ -189,19 +192,23 @@ Então vamos para primeira etapa:
 
 __ "Enrolação" __ 
 
-    |
+    Modele a solução de um problema para
+    de uma sala 
+    Considere que as medidas estão expressas em metros.
 
-__ Entrada __
 
-    |
+__ Entrada __: ter a largura e altura
 
- __ Processo __ 
+    largura = 3
+    altura = 7
 
-    |
+ __ Processo __: calcular a área  retangular 
+
+    area = largura x altura
 
  __ Saída __ 
 
-    |
+    escrever(area)
 
 
   - descrever solução formalmente
