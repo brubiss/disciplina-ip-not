@@ -72,7 +72,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 - testes
 - arrumar problemas encontrados
 - testes
-- usar ... :-) ... e rezar para o usuário não aparecer com novos problemas, mas sim com novas necessidades
+- usar ... 😉 ... e rezar para o usuário não aparecer com novos problemas, mas sim com novas necessidades
 
 #### Algumas dicas
 ##### Desenvolvimento da ideia / Formalização da ideia
@@ -91,9 +91,16 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 ##### Codificação: linguagem de programação
 - Exemplo, algo parecido com formalismo usado na Matemática (mas melhor 😉 )
 
-![Expressões matemáticas](imgs/AA_Expressoes.png "Expressões matemáticas")
+  ![\Large 3+4=x](https://latex.codecogs.com/svg.latex?\Large&space;3+4=x)<br>
+  ![\Large 4+3=x](https://latex.codecogs.com/svg.latex?\Large&space;4+3=x)<br><br>
 
-- Exemplo, na Computação, uma representação gráfica: 
+  ![\Large 1+4+3-1=y](https://latex.codecogs.com/svg.latex?\Large&space;1+4+3-1=y)<br><br>
+
+  ![\Large \Large&space;1+4+3-1+\sqrt{9}+\int_{a}^{b}dx=z](https://latex.codecogs.com/svg.latex?\Large&space;1+4+3-1+\sqrt{9}+\int_{a}^{b}dx=z)<br><br>
+  ![\Large \Large&space;1+4+3-1+\sqrt{9}=a](https://latex.codecogs.com/svg.latex?\Large&space;1+4+3-1+\sqrt{9}=a)<br>
+  ![\Large \Large&space;a+\int_{a}^{b}dx=z](https://latex.codecogs.com/svg.latex?\Large&space;a+\int_{a}^{b}dx=z)<br>
+
+- Exemplo, na Computação, uma representação gráfica:
   - Fluxograma de uma rotina condicional simples
   
 ![Diagrama de estados de uma rotina condicional simples](imgs/AA_Exemplo_1_Condicional_Simples.png "Diagrama de estados de uma rotina condicional simples")
