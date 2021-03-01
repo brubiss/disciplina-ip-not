@@ -1,5 +1,3 @@
-package "unidade_1/src";
-
 public class EnunciadoA {
 
   public static void main(String[] args) {
