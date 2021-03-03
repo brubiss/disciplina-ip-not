@@ -67,7 +67,7 @@ Nomes podem conter letras, números e _. Não podem conter caracteres especiais,
 ![Algoritmo](imgs/img_URI_1002_fluxograma.png "Algoritmo")
 
 #### Teste de Mesa:
-![Teste de mesa](imgs/formularioTesteMesa.png "Teste de Mesa")
+![Teste de mesa](imgs/img_formularioTesteMesa.png "Teste de Mesa")
 
 #### Formulário completo:
 ![Formulário de estruturação de algoritmos](imgs/img_formularioDois.png "Formulário completo de estruturação de algoritmos")

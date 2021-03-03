@@ -158,12 +158,12 @@
 #### Exemplo 1
 - Um professor deseja calcular a média de um aluno. O professor tem o nome e as 3 notas do aluno e a média deve ser calculada de forma aritmética.
 
-![Formulário de Análise - exemplo um](imgs/img_FormularioUm.png "Formulário de Análise - exemplo um")
+![Formulário de Análise - exemplo um](imgs/img_formularioUm.png "Formulário de Análise - exemplo um")
 
 #### Exemplo 2
 - Modele a solução de um problema para calcular a área de uma sala retangular. Considere que as medida estão expressas em metros.
 
-![Formulário de Análise - exemplo dois](imgs/img_FormularioDois.png "Formulário de Análise - exemplo dois")
+![Formulário de Análise - exemplo dois](imgs/img_formularioDois.png "Formulário de Análise - exemplo dois")
 
 ### Exercícios
 - Responda o quiz no AVA3​.
