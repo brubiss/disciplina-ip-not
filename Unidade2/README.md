@@ -8,7 +8,7 @@
 > "link alternativo da primeira videoaula da unidade 2") <br>
 
 ### Solução de Problemas
-![Imagem das etapas: Entrada, Processo e Saída](../unidade_1/imgs/img_EPS.png "Imagem das etapas: Entrada, Processo e Saída")
+![Imagem das etapas: Entrada, Processo e Saída](../Unidade1/imgs/img_EPS.png "Imagem das etapas: Entrada, Processo e Saída")
 
 ### Etapas para a Solução de Problemas​
 - A **especificação** da solução de um problema com base em um software exige algumas **etapas** (requisitos) fundamentais:​

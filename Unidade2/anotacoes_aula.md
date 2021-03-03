@@ -47,28 +47,27 @@ Nomes podem conter letras, números e _. Não podem conter caracteres especiais,
 - Deixar um ou dois fluxograma para passarem para o VSCode
 
 
-![Partes do Fluxograma](imgs/partesFluxograma.png "Partes do Fluxograma")
+![Partes do Fluxograma](imgs/img_fluxogramaLegenda.png "Partes do Fluxograma")
 
 ### Estrutura de um algoritmo
 
 #### Análise:
-![Análise do algoritmo](imgs/analise.png "Análise do algoritmo")
+![Análise do algoritmo](imgs/img_formularioAnalise.png "Análise do algoritmo")
 
 #### Entradas:
-![Entradas](imgs/entradas.png "Entradas")
+![Entradas](imgs/img_formularioEntradas.png "Entradas")
 
 #### Saída:
-![Saídas](imgs/saídas.png "Saídas")
+![Saídas](imgs/img_formularioSaida.png "Saídas")
 
 #### Testes:
-![Testes](imgs/testes.png "Testes")
+![Testes](imgs/img_formularioTestes.png "Testes")
 
 #### Algoritmo:
-![Algoritmo](imgs/Algoritmo.png "Algoritmo")
+![Algoritmo](imgs/img_URI_1002_fluxograma.png "Algoritmo")
 
 #### Teste de Mesa:
-![Teste de mesa](imgs/Testedemesa.png "Teste de Mesa")
+![Teste de mesa](imgs/formularioTesteMesa.png "Teste de Mesa")
 
 #### Formulário completo:
-![Formulário de estruturação de algoritmos](imgs/img_FormularioDois.png "Formulário completo de estruturação de algoritmos")
-
+![Formulário de estruturação de algoritmos](imgs/img_formularioDois.png "Formulário completo de estruturação de algoritmos")
