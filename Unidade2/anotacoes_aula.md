@@ -32,14 +32,6 @@ Nomes podem conter letras, números e _. Não podem conter caracteres especiais,
 - Entrada: Scanner
 - Saída: System.out.print / System.out.println
 
-## Algoritmos
- 
- ### Problema 1 (URI_1002):
-    A fórmula para calcular a área de uma circunferência é definida como A = π x R². Considerando este problema que π = 3,1415. Calcule a área usando a fórmula fornecida na descrição do problema.
-
-### Problema 2 (URI_1008):
-    Escreva um programa que leia o número do funcionário, o número de horas trabalhadas em um mês e o valor que ele recebeu por hora. Este valor sempre será um valor inteiro. Imprima o número do funcionário e o salário que ele receberá no final do mês.
-
 ### Fluxogramas
 - Explicar a notação usada
 - Ter uma imagem sem ser um algoritmo e com legenda para cada símbolo usado no desenho do fluxograma
@@ -64,10 +56,26 @@ Nomes podem conter letras, números e _. Não podem conter caracteres especiais,
 ![Testes](imgs/img_formularioTestes.png "Testes")
 
 #### Algoritmo:
-![Algoritmo](imgs/img_URI_1002_fluxograma.png "Algoritmo")
+![Algoritmo](imgs/img_formularioFluxograma.png) "Algoritmo")
 
 #### Teste de Mesa:
 ![Teste de mesa](imgs/img_formularioTesteMesa.png "Teste de Mesa")
 
 #### Formulário completo:
 ![Formulário de estruturação de algoritmos](imgs/img_formularioDois.png "Formulário completo de estruturação de algoritmos")
+
+## Algoritmos para práticar
+ 
+ ### Problema 1 (URI_1002):
+    A fórmula para calcular a área de uma circunferência é definida como A = π x R². Considerando este problema que π = 3,1415. Calcule a área usando a fórmula fornecida na descrição do problema.
+
+- Entendendo o problema
+  
+![Calculo da área da circunferência](imgs/AA_Enunciado_URI_1002.png "Calculo da área da circunferência")
+
+- fluxograma
+  
+![Algoritmo](imgs/img_URI_1002_fluxograma.png "Algoritmo")
+
+### Problema 2 (URI_1008):
+    Escreva um programa que leia o número do funcionário, o número de horas trabalhadas em um mês e o valor que ele recebeu por hora. Este valor sempre será um valor inteiro. Imprima o número do funcionário e o salário que ele receberá no final do mês.
