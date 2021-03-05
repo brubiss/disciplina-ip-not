@@ -8,7 +8,7 @@ para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disc
 
 Assim que acessar a disciplina informe a seguinte chave de acesso (token): Hiwmnit
 
-Mas ATENÇÃO, usem o e-mail da furb (seuLogin@furb.br) para criar a conta de vocês, e aonde for pedido para preencher o seu nome coloque o seu nome correto e completo.
+Mas ATENÇÃO, usem o e-mail da furb (seuLogin @ furb . br) para criar a conta de vocês, e aonde for pedido para preencher o seu nome coloque o seu nome correto e completo.
 
 Para fazer esta atividade siga esta sequência de passos:
 1) criei caso já não tenha um projeto Java no VSCode com o nome "Unidade3";
