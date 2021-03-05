@@ -2,7 +2,7 @@ Olá, agora a atividade desta unidade será utilizar o URI para praticar a inter
 
 Bom, agora vocês devem ter acessar o link
 
-    [https://www.urionlinejudge.com.br/judge/en/disciplines/join/d-7172[(https://www.urionlinejudge.com.br/judge/en/disciplines/join/d-7172)]
+[https://www.urionlinejudge.com.br/judge/en/disciplines/join/d-7172](https://www.urionlinejudge.com.br/judge/en/disciplines/join/d-7172)
 
 para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: IP_NOT_D [2021-1].
 
