@@ -56,7 +56,24 @@ Nomes podem conter letras, números e _. Não podem conter caracteres especiais,
 ![Testes](imgs/img_formularioTestes.png "Testes")
 
 #### Algoritmo:
-![Algoritmo](imgs/img_formularioFluxograma.png) "Algoritmo")
+
+<div class="hidden">
+
+```
+@startuml img_formularioFluxograma
+	title URI_1001
+	start
+		:ler(largura);
+		:ler(comprimento);
+		:area = largura * comprimento;
+		:escrever(area);
+	stop
+@enduml
+
+```
+</div>
+
+![Algoritmo](imgs/img_formularioFluxograma.svg "Algoritmo")
 
 #### Teste de Mesa:
 ![Teste de mesa](imgs/img_formularioTesteMesa.png "Teste de Mesa")
