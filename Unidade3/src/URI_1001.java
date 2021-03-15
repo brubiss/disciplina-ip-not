@@ -13,6 +13,7 @@ public class URI_1001 {
 
     // Saída
     System.out.println("X = " + X);
+
     teclado.close();
   }
 }
