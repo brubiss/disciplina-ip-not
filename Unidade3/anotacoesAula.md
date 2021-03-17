@@ -31,5 +31,13 @@
 - [ ] URI_1015.java
 - [ ] URI_1016.java
 - [ ] URI_1018.java
-- [ ] URI_1019.java
+- [x] URI_1019.java
 - [ ] URI_1021.java
+
+## Rabiscos do processo de entender os enunciados
+
+#### URI_1019
+![Rabiscos do problema URI 1019](imgs/img_URI_1019.png "Rabiscos do problema URI 1019")
+
+------
+

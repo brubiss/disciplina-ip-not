@@ -15,7 +15,7 @@ area
 
 */
 
-public class URI1002 {
+public class URI_1002 {
   public static void main(String[] args) {
     // Entrada
     double pi = 3.1415;

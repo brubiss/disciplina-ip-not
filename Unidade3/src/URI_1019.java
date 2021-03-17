@@ -1,22 +1,20 @@
 import java.util.Scanner;
 
 public class URI_1019 {
-  public static void main(String[] args) {
-    Scanner teclado = new Scanner(System.in);
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner(System.in);
 
-    // Entrada
-    int tempoDuracaoSegundos = teclado.nextInt();
+		// int tempo = teclado.nextInt(); // tempo em segundos
+		// int horas = tempo / 3600;
+		// int segundosRestoHoras = tempo % 3600;
+		// int minutos = segundosRestoHoras / 60;
+		// int segundos = segundosRestoHoras % 60;
 
-    // Processo
-
-    int horas = tempoDuracaoSegundos / 3600;
-    int horasRestoSegundos = tempoDuracaoSegundos % 3600;
-    int minutos = horasRestoSegundos / 60;
-    int segundos = horasRestoSegundos % 60;
-
-    // Saída
-    System.out.println(horas + ":" + minutos + ":" + segundos);
-
-    teclado.close();
-  }
+		int tempo = teclado.nextInt();
+		int horas = tempo / 3600;
+		int minutos = (tempo % 3600) / 60;
+		int segundos = (tempo % 3600) % 60;
+		System.out.println(horas + ":" + minutos + ":" + segundos);
+		teclado.close();
+	}
 }
