@@ -8,7 +8,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-public class _Exemplo_DecimalFormat {
+public class Exemplo_DecimalFormat {
 	public static void main(String[] args) {
 		// // força a saída com virgula no lugar do ponto que separa casas decimais
 		// // para ter efeito no teclado deve ser declarado o Locate antes.
